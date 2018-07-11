@@ -1,0 +1,9 @@
+Make : TATA
+Transmission : Manual
+Fuel Type : Diesel
+Year : 2003
+Engine (cc) : 5670cc 
+Mileage (km) : 200,000 KM
+2 Doors
+42 Seats
+Price - Rs.875,000/-

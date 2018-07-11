@@ -1,0 +1,22 @@
+TECHNICAL INFORMATION
+Specifications
+Generator BRG650
+Output Voltage 240V AC ~ 50Hz
+Continuous
+Power (Rated) 650W
+Maximum
+Output 0.65Kva at power factor of 1
+Peak Power
+(Surge) 780W
+Motor Single cylinder 2-stroke
+Spark Arrestor Yes
+Tank Capacity 4L
+Noise Level 62db at 7m
+Weight 18Kg
+Approximate
+Run Time 4 Hours at 400W
+Fuel Unleaded Petrol
+Oil 2 Stroke Fuel Oil
+2 Stroke Mix
+50 : 1
+20ml 2-Stroke Oil : 1L Unleaded F
